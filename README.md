@@ -10,11 +10,11 @@ As the Lead Analyst of Tech Command, I provide consulting and training services 
 
 ✅ Staff Training & Development. I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels.
 
-## My Projects
+# My Projects
 
 Below are some of the projects I have worked on.
 
-### Predictive Modelling and analysis of Titanic Dataset
+## Predictive Modelling and analysis of Titanic Dataset
 
 ![Titanic Dataset](titanic_dashboard.png)	 
 
