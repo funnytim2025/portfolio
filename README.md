@@ -43,7 +43,6 @@ Get the Course
 
 ## Contact Me
 
-| Header 1 | Header 2 |
 |----------|----------|
 | 📩   |   [youremail@gmail.com](mailto:your_email@gmail.com)  	   | 	<!-- replace your_email@gmail.com with your email address -->
 | 📞   |   [your_phone_number](https://wa.me/2348060606060)  	   |	<!-- replace 2348060606060 with your phone number, remember to add your country code -->	
