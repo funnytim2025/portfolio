@@ -16,7 +16,7 @@ Below are some of the projects I have worked on.
 
 ### Predictive Modelling and analysis of Titanic Dataset
 
-[Titanic Dataset](https://titanic_dashboard.png)	 
+![Titanic Dataset](titanic_dashboard.png)	 
 
 The RMS Titanic popularly known as Titanic a british passenger liner was the world largest ship at the time, suffered one of the most infamous maritime disaster in history suring her maiden voyage, leading to loss of lives. This project seeks to analyze factors that influence survival if any, and the chances of survival of the different passenger aboard the ship.
 
@@ -24,14 +24,14 @@ The RMS Titanic popularly known as Titanic a british passenger liner was the wor
 
 ### Tracking COVID-19 Sensitization and Vaccination Activity Data
 
-[Titanic Dataset](https://titanic_dashboard.png)	 
+![Titanic Dataset](titanic_dashboard.png)	 
 
 COVID-19, a virus that ravaged the world in between 2019 and 2020. The pandemic spread rapidly like wildfire, infecting millions and causing widespread illness, death and economic disruption. To combat covid-19 in Nigeria, Life Abundance Int’l an NGO in Benue state is charged with the responsibility to sensitize people on symptom, prevention, and treatment of covid-19, while also providing vaccination services while encouraging those sensitized to get vaccinated as a means to stop the spread and reduce impact of COVID-19 if infected
 [Read More]()
 
 ### Analyzing & Evaluating Sales Data
 
-[Titanic Dataset](https://titanic_dashboard.png)	 
+![Titanic Dataset](titanic_dashboard.png)	 
 
 Sales a driving force behind every business, This model seeks to analyse and sales data from Lavida Stores to be able to identify trend and patterns, and overall chart ways to improve sales performance in subsequent years.
 [Read More]()
